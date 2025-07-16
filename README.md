@@ -42,7 +42,7 @@
 |----------------------|---------------------------------------------------------|----------------|
 | Generative AI        | Foundational concepts, LLMs, prompt engineering         | 📘 In Progress |
 | Agentic AI Systems   | Self-directed agents, integration with real-world tasks | 🧪 Exploring   |
-| Streaming Pipelines  | FastAPI file streaming → PySpark → Parquet              | ✅ Tested Locally |
+| Streaming Pipelines  | FastAPI file streaming → PySpark → Iceberg              | ✅ Tested Locally |
 | ML/DL Deep Dive      | Rebuilding confidence in CNNs, RNNs, and probabilistic models | ⏳ Active       |
 
 ---
